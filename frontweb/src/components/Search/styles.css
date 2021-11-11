@@ -1,0 +1,18 @@
+.search-card {
+  background: #EDEDED;
+  margin-bottom: 30px;
+}
+
+.card-search-top-container {
+  text-align: center;
+  padding: 16px 0;
+}
+
+.card-bottom-container {
+  padding: 15px 20px 30px 20px;
+}
+
+.card-bottom-container h6 {
+  font-size: 18px;
+  color: #263238;
+}
